@@ -1,4 +1,0 @@
-git clone <url>	(Remove the<>)	//cloning a repo
-git status	//show the status
-git add <-A(means all) or file name(style.css)>  //add the file to staging area
-git commit -a(all files) -m(means Message) "the message"	//commit the file to github
